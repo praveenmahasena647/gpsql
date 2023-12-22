@@ -4,5 +4,5 @@ dbname:
 host:
 port:
 sslmode:
-upfile:
-downfile:
+upfile:<path to upFiles>
+downfile:<path to downFiles>
