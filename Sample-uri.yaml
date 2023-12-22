@@ -1,8 +1,0 @@
-user:
-password:
-dbname:
-host:
-port:
-sslmode:
-upfile:<path to upFiles>
-downfile:<path to downFiles>
