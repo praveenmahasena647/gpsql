@@ -3,7 +3,7 @@ gpsql is a personal Golang tool that was created to solve the migration stuff wh
 
 
 ## Installing
-this package is built by using the `go build ./cmd/main.go` and then `mv /usr/bin` for now.
+this package is built by using the `go build ./cmd/main.go` and then `mv /usr/bin` **for now**.
 
 ```bash
 mdkir gpsql && cd gpsql
