@@ -1,8 +1,0 @@
-user: # dbUserName
-password: #enter password
-dbname: # db name you wanna connect with
-host: #db Host
-port: #db port
-sslmode: #sslmode
-updir: #relative path to the up files in your current folder example here ./cmd/up-files
-downdir: #relative path to the down folder from your current working dir  example here ./cmd/down-files
